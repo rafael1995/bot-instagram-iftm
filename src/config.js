@@ -2,7 +2,7 @@
 module.exports = {
   login: {
     user: '',
-    password: 'sccp1910'
+    password: ''
   },
   insta: {
     user: '', // insert user instagram
